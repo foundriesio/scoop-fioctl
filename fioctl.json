@@ -1,0 +1,15 @@
+{
+    "version": "0.11",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/foundriesio/scoop-fioctl/releases/download/v0.11/fioctl_0.11_Windows_x86_64.tar.gz",
+            "bin": [
+                "fioctl.exe"
+            ],
+            "hash": "344d78b7409f22f2d24701886bab56fc4d159b0585535ed1626222ed8db96c11"
+        }
+    },
+    "homepage": "https://foundries.io",
+    "license": "Apache-2.0",
+    "description": "A simple CLI to manage your Foundries Factory"
+}
