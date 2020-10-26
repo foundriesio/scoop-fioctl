@@ -1,8 +1,8 @@
 {
-    "version": "0.11",
+    "version": "0.12",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/foundriesio/scoop-fioctl/releases/download/v0.11/fioctl_0.11_Windows_x86_64.tar.gz",
+            "url": "https://github.com/foundriesio/scoop-fioctl/releases/download/v0.12/fioctl_0.12_Windows_x86_64.tar.gz",
             "bin": [
                 "fioctl.exe"
             ],
